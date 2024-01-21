@@ -1,0 +1,13 @@
+
+CTransformers ## to load LLM else we can use LLAMA CPT python
+sentence_transformers
+fastapi ## for backend
+jinja2 ## front end templating
+aiofiles ##needed for FASTAPI post request, for uploading file
+PyPDF2
+python-multipart ##needed for FASTAPI post request, for uploading file
+faiss-cpu  ##in-memory vertor store
+langchain
+uvicorn
+
+
